@@ -19,7 +19,7 @@
 		"phone"=>$phone,
 		"send_sms"=>true,
 		"allow_repeated_payments"=>false,
-        "redirect_url" => "http://localhost/PaymentGRIP/thankyou.php"
+        "redirect_url" => "https://anodal-remedies.000webhostapp.com/thankyou.php"
 		//"webhook"=> 
         ));
     print_r($response);
