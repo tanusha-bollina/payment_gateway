@@ -2,6 +2,7 @@
 header {
     height: 360px;
     z-index: 10;
+	width: 100%;
 }
 .header-banner {
     background-color: #333;
